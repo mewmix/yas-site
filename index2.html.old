@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<div class="container">
+  <center><h1 class="section__headline">FAQS</h1></center>
+  <h2 class="c-faqs__headline">Popular Queries </h2>
+  <ul class="c-faqs">
+    <li class="c-faq c-faq--active">
+      <span class="c-faq__title">Total Supply?</span>
+      <div class="c-faq__answer">100 Million </div>
+    </li>
+    <li class="c-faq">
+      <span class="c-faq__title">What are some YAS Tools?</span>
+      <div class="c-faq__answer"> <a href="https://yas.plus"> YAS PLUS </a>- Block Explorer & Tool Kit
+ </a> <br> <br> <a href="https://mathwallet.org"> MathWallet </a>- Wallet, Tool Kit, Mining & Swap
+ </a></div>
+    </li>
+    <li class="c-faq">
+      <span class="c-faq__title">Check Node Status?</span>
+      <div class="c-faq__answer"><a href="http://socalyas.ddns.net:8888/v1/chain/get_info"> Get Current Block Height  </a>- yasrepzsocal</div>
+    </li>
+  </ul>  <!-- /end c-faqs -->
+  
+
+  
+<span class="c-note">Made with Love By: <a href="https://yas.plus/accounts/yasrepzsocal">yasrepzsocal</a></span>
+<br><br><center><a href="https://t.me/zergtengudev"> Contact</a></center> </div>
+
+<body>
+  <script src="script.js"></script>
+</body>
+</html>
